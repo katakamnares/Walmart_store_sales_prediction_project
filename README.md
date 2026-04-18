@@ -1,5 +1,6 @@
 
 
+
 # 🛒📊 Walmart Store Sales Prediction
 
 ## 📌 Project Overview
@@ -63,3 +64,4 @@ This model helps in:
 - Improved decision-making for retail operations  
 
 ---
+<img width="1366" height="768" alt="Screenshot (436)" src="https://github.com/user-attachments/assets/7105ac60-2a8d-4684-91dd-a9228ba112e4" />
