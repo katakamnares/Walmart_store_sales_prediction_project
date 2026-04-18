@@ -39,7 +39,7 @@ result['Day'] = date.dt.day
 
 import pickle
 
-with open(r"C:\Users\HP\Downloads\model2.pkl",'rb') as file:
+with open(r"model2.pkl",'rb') as file:
   dic = pickle.load(file)
 
 X = result.drop(['Date'], axis = 1)
